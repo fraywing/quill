@@ -43,5 +43,5 @@
     "test:coverage": "webpack --config _develop/webpack.coverage.js; karma start _develop/karma.config.js --reporters coverage",
     "travis": "karma start _develop/karma.config.js --reporters dots,saucelabs"
   },
-  "private": true
+  "private": false
 }
