@@ -22,5 +22,4 @@ import './unit/modules/undo-manager';
 
 import './unit/themes/snow';
 
-
 export default Quill;
